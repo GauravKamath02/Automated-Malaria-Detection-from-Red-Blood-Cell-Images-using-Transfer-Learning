@@ -1,0 +1,1 @@
+# Automated-Malaria-Detection-from-Red-Blood-Cell-Images-using-Transfer-Learning
